@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(61, 92, 179);
+}
+
+.contenedorBotones img {
+    width: 60px;
+    margin: 20px;
+}
+
+.contenedorBotones img:hover {
+    transform: scale(1.1);
+}
+
+.contenedorPeliculas {
+    background-color: rgb(135, 206, 206);
+    margin: 20px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.contenedorPeliculas img {
+    width: 200px;
+    margin: 20px;
+}
+
+.contenedorPeliculas img:hover {
+    transform: scale(1.1);
+}
+
+
